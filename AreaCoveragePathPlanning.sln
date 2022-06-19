@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCoveragePathPlanning", "AreaCoveragePathPlanning\AreaCoveragePathPlanning.csproj", "{291D6386-7AF4-403E-8FCB-8EEB758E890D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCoveragePathPlanning.Test", "AreaCoveragePathPlanning.Test\AreaCoveragePathPlanning.Test.csproj", "{F2149219-DCD6-46AA-BCFB-E062E7E0A231}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{291D6386-7AF4-403E-8FCB-8EEB758E890D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{291D6386-7AF4-403E-8FCB-8EEB758E890D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{291D6386-7AF4-403E-8FCB-8EEB758E890D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{291D6386-7AF4-403E-8FCB-8EEB758E890D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2149219-DCD6-46AA-BCFB-E062E7E0A231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2149219-DCD6-46AA-BCFB-E062E7E0A231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2149219-DCD6-46AA-BCFB-E062E7E0A231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2149219-DCD6-46AA-BCFB-E062E7E0A231}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FB4ACBE-0452-4BB9-8C1D-86B7C5081A7F}
+	EndGlobalSection
+EndGlobal
